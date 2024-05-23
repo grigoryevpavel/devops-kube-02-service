@@ -20,6 +20,9 @@
 Получаем следующий ответ в браузере:
 <img src='images/pod port-forward.png'/>
 
+Вот результат подключения к поду:
+<img src='images/connect_pod.png'/>
+
 ------
 
 ### Задание 2. Создать Service и подключить его к Pod
